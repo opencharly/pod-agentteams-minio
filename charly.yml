@@ -1,7 +1,5 @@
-version: 2026.232.0520
 agentteams-minio:
     candy:
-        version: 2026.223.1436
         description: |-
             MinIO object storage for AgentTeams — the minio + mc binaries extracted
             from the higress/minio:20260216 and higress/mc:20260216 images, with the
